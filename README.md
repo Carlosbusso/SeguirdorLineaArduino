@@ -16,7 +16,6 @@ El único problema es la referencia para hacer la conexión de los sensores, tod
 En general se debe tomar como referencia el datasheet del sensor para hacer la correcta conexión del sensor, para cualquier marca de CNY70 se debe hacer la conexión como te envió en las fotos adjuntas donde se tiene que poner la marca al lado derecho, conectado de esta forma debe funcionar bien los sensores. 
 
 Guíate con el color de los cables conectados al sensor. Primero haz la conexión de esta manera y luego tus sensores ya deben marcar 1 y 0 con eso puedes continuar con el armado del carro.
-Saludos.
 
 ### *Te dejo el siguiente vídeo para que lo puedas revisar y tener una mejor referencia sobre la conexión:
 https://www.youtube.com/watch?v=A7AVA0E4U4Q
