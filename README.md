@@ -11,7 +11,7 @@ Contiene el código de programación de prueba de la lectura de sensores.
 
 NOTA: Existe una mala referencia en el video con respecto a la conexión de los sensores.
 
-el único problema es la referencia para hacer la conexión de los sensores, todo lo demás está bien, en el vídeo tomo como referencia para conectar los sensores el color de sus leds, pero eso solo es válido para esa marca que yo usé.  
+El único problema es la referencia para hacer la conexión de los sensores, todo lo demás está bien, en el vídeo tomo como referencia para conectar los sensores el color de sus leds, pero eso solo es válido para esa marca que yo usé.  
 
 En general se debe tomar como referencia el datasheet del sensor para hacer la correcta conexión del sensor, para cualquier marca de CNY70 se debe hacer la conexión como te envió en las fotos adjuntas donde se tiene que poner la marca al lado derecho, conectado de esta forma debe funcionar bien los sensores. 
 
